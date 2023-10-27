@@ -31,6 +31,7 @@ Using the official OPE tool, you can easily create, update, manage, and publish 
 - **build:** build the book                                                   
 - **pub:** publish the book                                                     
 - **new_course:** creates a new ope project seeded with 3 books (textbook, lecture notes, and labmanual) and one container
+- test
 
 
 
